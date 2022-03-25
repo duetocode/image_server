@@ -1,0 +1,2 @@
+flask[async]~=2.0.3
+uwsgi~=2.0.19
